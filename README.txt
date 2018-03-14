@@ -1,0 +1,1 @@
+this extension allows to link individual (up to 5) images into the tt_news templates.
